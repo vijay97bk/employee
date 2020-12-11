@@ -48,3 +48,6 @@ echo wage per month after condition is $wage_month_condition
 fi
 }
 cond
+
+total_wage=$((daily_wage*20))
+echo $total_wage is total wage
